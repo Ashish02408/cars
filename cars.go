@@ -1,4 +1,4 @@
-package car
+package cars
 
 func Sound() string {
 	return "go"
